@@ -13,6 +13,10 @@ Features:
 • Binance Square Auto Posting  
 • CreatorPad Task Automation  
 • Smart Contract Assistance  
+• Binance Latest campaigns announcement update 
+• Weather update.
+• Updates from X accounts like @saylor and @cz_Binance
+
 
 How it works:
 
